@@ -1,40 +1,67 @@
-# DevClub Store
+# AirPods Landing Page 🎧
 
-Projeto de uma loja virtual moderna, criada com HTML, CSS e JavaScript.
+Uma landing page moderna inspirada nos AirPods da Apple, desenvolvida para praticar HTML, CSS e JavaScript, com foco em design responsivo, animações e experiência do usuário.
 
-## Sobre o projeto
+## 🚀 Tecnologias Utilizadas
 
-A **DevClub Store** é uma página interativa de produtos tecnológicos, com layout moderno, carrossel de produtos, botões de navegação e indicadores visuais.
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
 
-## Tecnologias usadas
+## ✨ Funcionalidades
 
-- HTML
-- CSS
-- JavaScript
-- Google Fonts
-- SVG Icons
+* Apresentação do produto em layout moderno
+* Design responsivo para desktop e mobile
+* Animações e efeitos visuais
+* Interface inspirada em páginas de produtos da Apple
+* Navegação simples e intuitiva
 
-## Funcionalidades
+## 🎯 Objetivo
 
-- Layout moderno
-- Menu de navegação
-- Carrossel de produtos
-- Botões de próximo e anterior
-- Indicadores de slides
-- Imagens de produtos tecnológicos
+Este projeto foi desenvolvido com o objetivo de aprimorar habilidades em desenvolvimento Front-End, praticando estruturação de páginas, estilização avançada e interação com JavaScript.
 
-## Produtos exibidos
+## 🌐 Projeto Online
 
-- Apple Watch Series 10
-- AirPods Max
-- Vision Pro
+🔗 Acesse o projeto:
 
-## Como executar
+https://aleblack25.github.io/Porjeto-Aipods-CONCLUIDO/
 
-1. Baixe ou clone o projeto
-2. Abra a pasta no VS Code
-3. Abra o arquivo `index.html`
-4. Use a extensão Live Server para visualizar no navegador
+## 📷 Preview
+
+![Preview do projeto](./assets/preview.png)
+
+## 📁 Estrutura do Projeto
+
+```text
+Porjeto-Aipods-CONCLUIDO/
+├── assets/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
+
+## 🛠️ Habilidades Desenvolvidas
+
+* Estruturação semântica com HTML
+* Estilização com CSS moderno
+* Responsividade
+* Manipulação do DOM
+* Organização de projetos Front-End
+* Versionamento com Git e GitHub
+
+## 👨‍💻 Autor
+
+Alexandre Costa
+
+GitHub: https://github.com/aleblack25
+
+---
+
+Projeto desenvolvido durante meus estudos de Desenvolvimento Front-End.
+
 
 GitHub: https://github.com/aleblack25
 
